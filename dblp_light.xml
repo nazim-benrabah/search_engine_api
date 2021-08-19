@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Daniel Gruss</author>
+<author>Werner Haas 0004</author>
+<author>Mike Hamburg</author>
+<author>Moritz Lipp</author>
+<author>Stefan Mangard</author>
+<author>Thomas Prescher 0002</author>
+<author>Michael Schwarz 0001</author>
+<author>Yuval Yarom</author>
+<title>Spectre Attacks: Exploiting Speculative Execution.</title>
+<journal>meltdownattack.com</journal>
+<year>2018</year>
+<ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+</article>
+<article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+<author>Moritz Lipp</author>
+<author>Michael Schwarz 0001</author>
+<author>Daniel Gruss</author>
+<author>Thomas Prescher 0002</author>
+<author>Werner Haas 0004</author>
+<author>Stefan Mangard</author>
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Yuval Yarom</author>
+<author>Mike Hamburg</author>
+<title>Meltdown</title>
+<journal>meltdownattack.com</journal>
+<ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+<year>2018</year>
+</article>
+<book mdate="2019-05-27" key="tr/acm/CS2013">
+<title>Computer Science Curricula 2013</title>
+<publisher>ACM Press and IEEE Computer Society Press</publisher>
+<year>2013</year>
+<ee>https://doi.org/10.1145/2534860</ee>
+<isbn>978-1-4503-2309-3</isbn>
+</book>
+<article mdate="2019-10-25" key="tr/gte/TR-0263-08-94-165" publtype="informal">
+<author>Frank Manola</author>
+<title>An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0263-08-94-165</volume>
+<month>August</month>
+<year>1994</year>
+<url>db/journals/gtelab/index.html#TR-0263-08-94-165</url>
+</article><article mdate="2019-10-25" key="tr/gte/TR-0222-10-92-165" publtype="informal">
+<author>Michael L. Brodie</author>
+<author>Michael Stonebraker</author>
+<title>DARWIN: On the Incremental Migration of Legacy Information Systems</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0222-10-92-165</volume>
+<month>March</month>
+<year>1993</year>
+<url>db/journals/gtelab/index.html#TR-0222-10-92-165</url>
+<note>This report is also available as a Technical Memorandum of Electronics Research Laboratory, College of Engineering, University of California, Berkeley.</note>
+</article>
+<www mdate="2013-05-08" key="homepages/129/4288">
+<author>Jian Tu</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-13" key="homepages/129/5807">
+<author>Patrick William Canganelli</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-15" key="homepages/129/6772">
+<author>H. Pinheiro</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-15" key="homepages/129/6840">
+<author>Michael G. Egan</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-10" key="homepages/129/5086">
+<author>G. Jakes</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-17" key="homepages/129/7551">
+<author>Simon Stuker</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-08" key="homepages/129/4582">
+<author>Jean-Christophe Camart</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-01" key="homepages/129/1210">
+<author>Jessica Coates</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-05" key="homepages/129/3090">
+<author>F&aacute;tima Garc&iacute;a Ayll&oacute;n</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-14" key="homepages/129/6371">
+<author>Sandra Trott</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-23" key="homepages/129/9439">
+<author>Jiwei Jia</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-03" key="homepages/129/2013">
+<author>Marc Jay</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-16" key="homepages/129/7394">
+<author>Dan Bar-On</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-16" key="homepages/129/7102">
+<author>P. E. Ovchinnikov</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-17" key="homepages/129/7616">
+<author>Akira Yokosawa</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-10" key="homepages/129/5324">
+<author>Ari P. Potinkara</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-17" key="homepages/129/7553">
+<author>Dagmar Peters-Drolshagen</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-03" key="homepages/129/2453">
+<author>Mari M&auml;kel&auml;</author>
+<title>Home Page</title>
+</www>
+<www mdate="2018-11-07" key="homepages/129/0540">
+<author>Vito Giuseppe Monopoli</author>
+<title>Home Page</title>
+<url>https://orcid.org/0000-0002-9965-2433</url>
+</www><www mdate="2013-05-10" key="homepages/129/5345">
+<author>Daniel V&eacute;lez-D&iacute;az</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-24" key="homepages/129/9846">
+<author>Fabien Besnard</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-15" key="homepages/129/6960">
+<author>Dara L. O'Sullivan</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-16" key="homepages/129/7149">
+<author>Song-Tao Fu</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-13" key="homepages/129/6051">
+<author>Karl B. Gregory</author>
+<title>Home Page</title>
+</www>
+<www mdate="2013-05-07" key="homepages/129/4123">
+<author>M. A. Tahir</author>
+<title>Home Page</title>
+</www>
+<book mdate="2011-04-21" key="books/daglib/0098665">
+<author>Wolfgang Willems</author>
+<title>Codierungstheorie.</title>
+<pages>I-X, 1-250</pages>
+<publisher>de Gruyter</publisher>
+<year>1999</year>
+<series>de Gruyter Lehrbuch</series>
+<isbn>978-3-11-015873-1</isbn>
+</book>
+<book mdate="2019-07-15" key="books/daglib/0007057">
+<author>Kees van Deemter</author>
+<author>Rodger Kibble</author>
+<title>Information sharing - reference and presupposition in language generation and interpretation.</title>
+<pages>I-XIII, 1-415</pages>
+<publisher>CSLI Publications</publisher>
+<year>2002</year>
+<series>CSLI lecture notes series</series>
+<volume>143</volume>
+<isbn>978-1-57586-404-4</isbn>
+</book><book mdate="2011-04-21" key="books/daglib/0086005">
+<author>Paul Albitz</author>
+<author>Cricket Liu</author>
+<title>DNS and BIND (2. ed.).</title>
+<pages>I-XVIII, 1-418</pages>
+<publisher>O'Reilly</publisher>
+<year>1997</year>
+<series>Help for system administrators</series>
+<isbn>978-1-56592-236-5</isbn>
+</book>
+<book mdate="2016-04-28" key="books/daglib/0032893">
+<author>Ralph C. Smith</author>
+<title>Uncertainty Quantification - Theory, Implementation, and Applications.</title>
+<pages>I-XVIII, 1-382</pages>
+<publisher>SIAM</publisher>
+<year>2014</year>
+<series>Computational science and engineering</series>
+<isbn>978-1-611973-21-1</isbn>
+<ee>http://bookstore.siam.org/cs12/</ee>
+</book>
+<book mdate="2011-05-02" key="books/daglib/0071880">
+<author>Wolfgang P. Kowalk</author>
+<title>Korrekte Software - Semantik, Spezifikation, Verifikation und Testen von Programmen.</title>
+<pages>1-310</pages>
+<publisher>BI-Wissenschaftsverlag</publisher>
+<year>1992</year>
+<isbn>978-3-411-16001-3</isbn>
+</book>
+<book mdate="2011-02-03" key="books/daglib/0014798">
+<author>Jenifer Tidwell</author>
+<title>Designing interfaces - patterns for effective interaction design.</title>
+<pages>I-XX, 1-331</pages>
+<publisher>O'Reilly</publisher>
+<year>2006</year>
+<isbn>978-0-596-00803-1</isbn>
+<ee>http://www.oreilly.de/catalog/designinterfaces/index.html</ee>
+</book>
+<phdthesis mdate="2020-01-30" key="books/daglib/0079800">
+<author>Nils Lenke</author>
+<title>Paraphrasen - L&ouml;sungen f&uuml;r antizipierte Leserprobleme bei der automatischen Textgenerierung.</title>
+<pages>1-249</pages>
+<publisher>Infix</publisher>
+<school>University of Duisburg-Essen, Germany</school>
+<year>1995</year>
+<series href="db/series/diski/index.html">DISKI</series>
+<volume>82</volume>
+<isbn>978-3-929037-82-1</isbn>
+<ee>http://d-nb.info/944180787</ee>
+</phdthesis>
+<book mdate="2012-03-03" key="books/daglib/0028081">
+<author>James P. Cohoon</author>
+<author>Jack W. Davidson</author>
+<title>Java 5.0 Program Design - Java 5.0 Update Edition.</title>
+<pages>I-XXIV, 1-919</pages>
+<publisher>McGraw-Hill</publisher>
+<year>2006</year>
+<isbn>978-0-07-325030-4</isbn>
+<ee>http://www.mhprofessional.com/product.php?isbn=0073250309</ee>
+</book>
+<book mdate="2011-04-12" key="books/daglib/0001128">
+<author>Andreas Roscher</author>
+<title>NT-Unix-Integration - Intranet / Internet-Vernetzung von Windows NT, Linux und Solaris mit DNS, NFS, Samba, BOOTP und DHCP (2. Aufl.).</title>
+<pages>I-XI, 1-274</pages>
+<publisher>dpunkt.verlag</publisher>
+<year>2000</year>
+<isbn>978-3-932588-64-8</isbn>
+</book>
+<book mdate="2011-04-07" key="books/daglib/0010802">
+<author>Steve Holzner</author>
+<title>Eclipse - programming Java applications: coverage of 3.0.</title>
+<pages>I-XIV, 1-317</pages>
+<publisher>O'Reilly</publisher>
+<year>2004</year>
+<isbn>978-0-596-00641-9</isbn>
+<ee>http://www.oreilly.de/catalog/eclipse/index.html</ee>
+</book>
+<book mdate="2011-04-12" key="books/daglib/0003018">
+<author>Hans Herbert Schulze</author>
+<title>Computer Englisch - ein Fachw&ouml;rterbuch.</title>
+<pages>1-278</pages>
+<publisher>Rowohlt</publisher>
+<year>1989</year>
+<isbn>978-3-499-18134-4</isbn>
+</book>
+<book mdate="2019-07-18" key="books/daglib/0071799">
+<author>Resve A. Saleh</author>
+<author>Shyh-Jye Jou</author>
+<author>A. Richard Newton</author>
+<title>Mixed-mode simulation and analog multilevel simulation.</title>
+<pages>I-XI, 1-302</pages>
+<publisher>Kluwer</publisher>
+<year>1994</year>
+<series>The Kluwer international series in engineering and computer science</series>
+<isbn>978-0-7923-9473-0</isbn>
+</book><book mdate="2013-11-08" key="books/daglib/0032208">
+<author>Peter Kandzia</author>
+<author>Hans Langmaack</author>
+<title>Informatik - Programmierung.</title>
+<pages>1-234</pages>
+<publisher>Teubner</publisher>
+<year>1973</year>
+<series>Teubner Studienb&uuml;cher: Informatik</series>
+<isbn>978-3-519-02321-0</isbn>
+</book>
+<book mdate="2011-05-03" key="books/daglib/0069225">
+<author>David F. Rogers</author>
+<author>J. Alan Adams</author>
+<title>Mathematical elements for computer graphics (2. ed.).</title>
+<pages>I-XIX, 1-611</pages>
+<publisher>McGraw-Hill</publisher>
+<year>1990</year>
+<isbn>978-0-07-053530-5</isbn>
+</book>
+<inproceedings mdate="2019-09-18" key="conf/wikis/GaspariniIC0C19">
+<author>Mattia Gasparini</author>
+<author>Javier Luis C&aacute;novas Izquierdo</author>
+<author>Robert Claris&oacute;</author>
+<author>Marco Brambilla 0001</author>
+<author>Jordi Cabot</author>
+<title>Analyzing rich-club behavior in open source projects.</title>
+<pages>6:1-6:9</pages>
+<year>2019</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3306446.3340825</ee>
+<crossref>conf/wikis/2019</crossref>
+<url>db/conf/wikis/opensym2019.html#GaspariniIC0C19</url>
+</inproceedings>
+<inproceedings mdate="2018-11-24" key="conf/wikis/SyeedHHM14">
+<author>M. M. Mahbubul Syeed</author>
+<author>Klaus Marius Hansen</author>
+<author>Imed Hammouda</author>
+<author orcid="0000-0001-8531-898X">Konstantinos Manikas</author>
+<title>Socio-Technical Congruence in the Ruby Ecosystem.</title>
+<pages>2:1-2:9</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641586</ee>
+<ee>https://www.wikidata.org/entity/Q58880318</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#SyeedHHM14</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/AguiarMD08">
+<author orcid="0000-0002-4046-4729">Ademar Aguiar</author>
+<author>Paulo Merson</author>
+<author>Uri Dekel</author>
+<title>Wikis4SE'2008: wikis for software engineering.</title>
+<year>2008</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1822258.1822308</ee>
+<ee>https://www.wikidata.org/entity/Q66693385</ee>
+<crossref>conf/wikis/2008</crossref>
+<url>db/conf/wikis/wikis2008.html#AguiarMD08</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/SuzukiY12">
+<author>Yu Suzuki</author>
+<author>Masatoshi Yoshikawa</author>
+<title>Mutual evaluation of editors and texts for assessing quality of Wikipedia articles.</title>
+<pages>18</pages>
+<year>2012</year>
+<booktitle>WikiSym</booktitle>
+<ee>https://doi.org/10.1145/2462932.2462956</ee>
+<ee>https://www.wikidata.org/entity/Q66711792</ee>
+<crossref>conf/wikis/2012</crossref>
+<url>db/conf/wikis/wikis2012.html#SuzukiY12</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/AhmedMJ14">
+<author>Iftekhar Ahmed 0001</author>
+<author>Nitin Mohan</author>
+<author>Carlos Jensen</author>
+<title>The Impact of Automatic Crash Reports on Bug Triaging and Development in Mozilla.</title>
+<pages>1:1-1:8</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641585</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#AhmedMJ14</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/Qundus16">
+<author>Jamal Al Qundus</author>
+<title>Generating Trust in Collaborative Annotation Environments.</title>
+<pages>3:1-3:4</pages>
+<year>2016</year>
+<booktitle>OpenSym (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2962132.2962136</ee>
+<crossref>conf/wikis/2016c</crossref>
+<url>db/conf/wikis/opensym2016c.html#Qundus16</url>
+</inproceedings><inproceedings mdate="2020-10-26" key="conf/wikis/Miquel-RibeL20">
+<author>Marc Miquel-Rib&eacute;</author>
+<author>David Laniado</author>
+<title>The Wikipedia Diversity Observatory: A Project to Identify and Bridge Content Gaps in Wikipedia.</title>
+<pages>14:1-14:4</pages>
+<year>2020</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3412569.3412866</ee>
+<crossref>conf/wikis/2020</crossref>
+<url>db/conf/wikis/opensym2020.html#Miquel-RibeL20</url>
+</inproceedings>
+<inproceedings mdate="2020-05-30" key="conf/wikis/SilbernaglKS16">
+<author>Doris Silbernagl</author>
+<author>Nikolaus Krismer</author>
+<author>G&uuml;nther Specht</author>
+<title>Comparing OSM Area-Boundary Data to DBpedia.</title>
+<pages>11:1-11:4</pages>
+<year>2016</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2957792.2957806</ee>
+<ee>https://www.wikidata.org/entity/Q87814168</ee>
+<crossref>conf/wikis/2016</crossref>
+<url>db/conf/wikis/opensym2016.html#SilbernaglKS16</url>
+</inproceedings><proceedings mdate="2017-08-24" key="conf/wikis/2017c">
+<editor>Lorraine Morgan</editor>
+<title>Companion to the Proceedings of the 13th International Symposium on Open Collaboration, OpenSym 2017, Galway, Ireland, August 23-25, 2017</title>
+<booktitle>OpenSym (Companion)</booktitle>
+<publisher>ACM</publisher>
+<year>2017</year>
+<isbn>978-1-4503-5417-2</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=3126673</ee>
+<url>db/conf/wikis/opensym2017c.html</url>
+</proceedings>
+<inproceedings mdate="2018-11-14" key="conf/wikis/AntinYCN11">
+<author>Judd Antin</author>
+<author orcid="0000-0002-6241-2559">Raymond Yee</author>
+<author>Coye Cheshire</author>
+<author>Oded Nov</author>
+<title>Gender differences in Wikipedia editing.</title>
+<pages>11-14</pages>
+<year>2011</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/2038558.2038561</ee>
+<ee>https://www.wikidata.org/entity/Q27791896</ee>
+<crossref>conf/wikis/2011</crossref>
+<url>db/conf/wikis/wikis2011.html#AntinYCN11</url>
+</inproceedings><inproceedings mdate="2018-11-14" key="conf/wikis/0001WC12">
+<author>Robert West 0001</author>
+<author orcid="0000-0003-4169-2579">Ingmar Weber</author>
+<author orcid="0000-0002-1218-0454">Carlos Castillo 0001</author>
+<title>Drawing a data-driven portrait of Wikipedia editors.</title>
+<pages>3</pages>
+<year>2012</year>
+<booktitle>WikiSym</booktitle>
+<ee>https://doi.org/10.1145/2462932.2462937</ee>
+<ee>https://www.wikidata.org/entity/Q54528595</ee>
+<crossref>conf/wikis/2012</crossref>
+<url>db/conf/wikis/wikis2012.html#0001WC12</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Kurmas10a">
+<author>Zachary Kurmas</author>
+<title>Encouraging language students to contribute inflection data to Wiktionary.</title>
+<year>2010</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1832772.1832804</ee>
+<ee>https://www.wikidata.org/entity/Q66709199</ee>
+<crossref>conf/wikis/2010</crossref>
+<url>db/conf/wikis/wikis2010.html#Kurmas10a</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/Teixeira14">
+<author>Jose Teixeira</author>
+<title>Understanding Coopetition in the Open-Source Arena: The Cases of WebKit and OpenStack.</title>
+<pages>39:1-39:5</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641627</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#Teixeira14</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Cunningham06">
+<author>Ward Cunningham</author>
+<title>Design principles of wiki: how can so little do so much?</title>
+<pages>13-14</pages>
+<year>2006</year>
+<crossref>conf/wikis/2006</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1149453.1149459</ee>
+<ee>https://www.wikidata.org/entity/Q66711438</ee>
+<url>db/conf/wikis/wikis2006.html#Cunningham06</url>
+</inproceedings><inproceedings mdate="2018-11-14" key="conf/wikis/Corneli10">
+<author orcid="0000-0003-1330-4698">Joseph Corneli</author>
+<title>GravPad.</title>
+<year>2010</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1832772.1832815</ee>
+<ee>https://www.wikidata.org/entity/Q58048388</ee>
+<crossref>conf/wikis/2010</crossref>
+<url>db/conf/wikis/wikis2010.html#Corneli10</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Jesus10">
+<author>Rut Jesus</author>
+<title>What cognition does for Wikis.</title>
+<year>2010</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1832772.1832789</ee>
+<ee>https://www.wikidata.org/entity/Q66692853</ee>
+<crossref>conf/wikis/2010</crossref>
+<url>db/conf/wikis/wikis2010.html#Jesus10</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/SolisA08">
+<author>Carlos Sol&iacute;s</author>
+<author orcid="0000-0002-0161-5600">Nour Ali</author>
+<title>ShyWiki-A spatial hypertext wiki.</title>
+<year>2008</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1822258.1822272</ee>
+<crossref>conf/wikis/2008</crossref>
+<url>db/conf/wikis/wikis2008.html#SolisA08</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/Morton16">
+<author orcid="0000-0002-4458-6256">Josh Morton</author>
+<title>Open Strategy: Rhetoric or Reality?</title>
+<pages>1:1-1:2</pages>
+<year>2016</year>
+<booktitle>OpenSym (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2962132.2962133</ee>
+<crossref>conf/wikis/2016c</crossref>
+<url>db/conf/wikis/opensym2016c.html#Morton16</url>
+</inproceedings><inproceedings mdate="2018-11-21" key="conf/wikis/RezguiC18">
+<author>Amira Rezgui</author>
+<author orcid="0000-0003-1996-3600">Kevin Crowston</author>
+<title>Stigmergic Coordination in Wikipedia.</title>
+<pages>19:1-19:12</pages>
+<year>2018</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3233391.3233543</ee>
+<ee>https://www.wikidata.org/entity/Q57039468</ee>
+<crossref>conf/wikis/2018</crossref>
+<url>db/conf/wikis/opensym2018.html#RezguiC18</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/Gelley13">
+<author>Bluma Gelley</author>
+<title>The dynamics of gatekeeping in online collaborative systems.</title>
+<pages>34:1</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491089</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#Gelley13</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/NodaDFYC17">
+<author>Tetsuo Noda</author>
+<author>Run Duan</author>
+<author>Hiroki Fukushiro</author>
+<author>Akio Yoshida</author>
+<author>Shane Coughlan</author>
+<title>The Classification, Challenge and Potential of Business Models by Using Open Data.</title>
+<pages>1:1-1:3</pages>
+<year>2017</year>
+<booktitle>OpenSym (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3126673.3126674</ee>
+<crossref>conf/wikis/2017c</crossref>
+<url>db/conf/wikis/opensym2017c.html#NodaDFYC17</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/PriedhorskyJT07">
+<author>Reid Priedhorsky</author>
+<author>Benjamin Jordan</author>
+<author>Loren G. Terveen</author>
+<title>How a personalized geowiki can help bicyclists share information more effectively.</title>
+<pages>93-98</pages>
+<year>2007</year>
+<crossref>conf/wikis/2007</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1296951.1296962</ee>
+<ee>https://www.wikidata.org/entity/Q66692593</ee>
+<url>db/conf/wikis/wikis2007.html#PriedhorskyJT07</url>
+</inproceedings><inproceedings mdate="2018-11-14" key="conf/wikis/GeigerH13">
+<author orcid="0000-0001-7215-0532">R. Stuart Geiger</author>
+<author orcid="0000-0001-8907-6367">Aaron Halfaker</author>
+<title>When the levee breaks: without bots, what happens to Wikipedia's quality control processes?</title>
+<pages>6:1-6:6</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491061</ee>
+<ee>https://www.wikidata.org/entity/Q49675148</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#GeigerH13</url>
+</inproceedings>
+<proceedings mdate="2011-12-09" key="conf/wikis/2011">
+<editor>Felipe Ortega</editor>
+<editor>Andrea Forte</editor>
+<title>Proceedings of the 7th International Symposium on Wikis and Open Collaboration, 2011, Mountain View, CA, USA, October 3-5, 2011</title>
+<booktitle>Int. Sym. Wikis</booktitle>
+<year>2011</year>
+<isbn>978-1-4503-0909-7</isbn>
+<publisher>ACM</publisher>
+<url>db/conf/wikis/wikis2011.html</url>
+</proceedings>
+<inproceedings mdate="2019-11-28" key="conf/wikis/PuenteD12">
+<author>Gorka Puente</author>
+<author orcid="0000-0003-1334-4761">Oscar D&iacute;az</author>
+<title>WikiWhirl: wiki refactoring made easy.</title>
+<pages>41</pages>
+<year>2012</year>
+<booktitle>WikiSym</booktitle>
+<ee>https://doi.org/10.1145/2462932.2462981</ee>
+<ee>https://www.wikidata.org/entity/Q66709234</ee>
+<crossref>conf/wikis/2012</crossref>
+<url>db/conf/wikis/wikis2012.html#PuenteD12</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/EngelbartK06">
+<author>Douglas C. Engelbart</author>
+<author>Eugene Eric Kim</author>
+<title>The augmented Wiki.</title>
+<pages>11-12</pages>
+<year>2006</year>
+<crossref>conf/wikis/2006</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1149453.1149458</ee>
+<ee>https://www.wikidata.org/entity/Q66710576</ee>
+<url>db/conf/wikis/wikis2006.html#EngelbartK06</url>
+</inproceedings><inproceedings mdate="2020-05-15" key="conf/wikis/SchreiberH17">
+<author>Andreas Schreiber 0001</author>
+<author>Carina Haupt</author>
+<title>Sharing Knowledge about Open Source Licenses at DLR.</title>
+<pages>26:1-26:4</pages>
+<year>2017</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3125433.3125470</ee>
+<crossref>conf/wikis/2017</crossref>
+<url>db/conf/wikis/opensym2017.html#SchreiberH17</url>
+</inproceedings><inproceedings mdate="2020-10-26" key="conf/wikis/WorkuBMZ20">
+<author>Zena Worku</author>
+<author>Taryn Bipat</author>
+<author>David W. McDonald</author>
+<author>Mark Zachry</author>
+<title>Exploring Systematic Bias through Article Deletions on Wikipedia from a Behavioral Perspective.</title>
+<pages>13:1-13:22</pages>
+<year>2020</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3412569.3412573</ee>
+<crossref>conf/wikis/2020</crossref>
+<url>db/conf/wikis/opensym2020.html#WorkuBMZ20</url>
+</inproceedings>
+<inproceedings mdate="2019-11-28" key="conf/wikis/Dale11">
+<author>Michael Dale</author>
+<title>Collaborative video editing for Wikipedia.</title>
+<pages>225</pages>
+<year>2011</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/2038558.2038607</ee>
+<ee>https://www.wikidata.org/entity/Q66692686</ee>
+<crossref>conf/wikis/2011</crossref>
+<url>db/conf/wikis/wikis2011.html#Dale11</url>
+</inproceedings><inproceedings mdate="2020-10-26" key="conf/wikis/VasevaM20">
+<author>Lyudmila Vaseva</author>
+<author>Claudia M&uuml;ller-Birn</author>
+<title>You Shall Not Publish: Edit Filters on English Wikipedia.</title>
+<pages>4:1-4:10</pages>
+<year>2020</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3412569.3412580</ee>
+<crossref>conf/wikis/2020</crossref>
+<url>db/conf/wikis/opensym2020.html#VasevaM20</url>
+</inproceedings>
+<inproceedings mdate="2018-11-14" key="conf/wikis/ArnoldFLL09">
+<author>Carrie Arnold</author>
+<author>Todd Fleming</author>
+<author orcid="0000-0003-1019-1763">David L. Largent</author>
+<author>Chris L&uuml;er</author>
+<title>DynaTable: a Wiki extension for structured data.</title>
+<year>2009</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1641309.1641347</ee>
+<ee>https://www.wikidata.org/entity/Q56623612</ee>
+<crossref>conf/wikis/2009</crossref>
+<url>db/conf/wikis/wikis2009.html#ArnoldFLL09</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/DiazAP12a">
+<author orcid="0000-0003-1334-4761">Oscar D&iacute;az</author>
+<author orcid="0000-0001-7878-3306">Crist&oacute;bal Arellano</author>
+<author>Gorka Puente</author>
+<title>WikiLayer: annotation for <i>Wikipedia</i>.</title>
+<pages>38</pages>
+<year>2012</year>
+<booktitle>WikiSym</booktitle>
+<ee>https://doi.org/10.1145/2462932.2462978</ee>
+<ee>https://www.wikidata.org/entity/Q66711047</ee>
+<crossref>conf/wikis/2012</crossref>
+<url>db/conf/wikis/wikis2012.html#DiazAP12a</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Bernstein06">
+<author>Mark Bernstein</author>
+<title>Intimate information: organic hypertext structure and incremental formalization for everyone"s everyday tasks.</title>
+<pages>9-10</pages>
+<year>2006</year>
+<crossref>conf/wikis/2006</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1149453.1149457</ee>
+<ee>https://www.wikidata.org/entity/Q66711246</ee>
+<url>db/conf/wikis/wikis2006.html#Bernstein06</url>
+</inproceedings><inproceedings mdate="2020-10-25" key="conf/wikis/RomoCH14">
+<author orcid="0000-0002-3722-1689">Bilyaminu Auwal Romo</author>
+<author orcid="0000-0001-9469-6050">Andrea Capiluppi</author>
+<author orcid="0000-0002-2728-9014">Tracy Hall</author>
+<title>Filling the Gaps of Development Logs and Bug Issue Data.</title>
+<pages>8:1-8:4</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641592</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#RomoCH14</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/AlquierMJ09">
+<author>Laurent Alquier</author>
+<author>Keith McCormick</author>
+<author>Ed Jaeger</author>
+<title>knowIT, a semantic informatics knowledge management system.</title>
+<year>2009</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1641309.1641340</ee>
+<ee>https://www.wikidata.org/entity/Q66709350</ee>
+<crossref>conf/wikis/2009</crossref>
+<url>db/conf/wikis/wikis2009.html#AlquierMJ09</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Reinhold06">
+<author>Silvan Reinhold</author>
+<title>WikiTrails: augmenting Wiki structure for collaborative, interdisciplinary learning.</title>
+<pages>47-58</pages>
+<year>2006</year>
+<crossref>conf/wikis/2006</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1149453.1149467</ee>
+<ee>https://www.wikidata.org/entity/Q66693126</ee>
+<url>db/conf/wikis/wikis2006.html#Reinhold06</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/PancieraMT14">
+<author>Katherine A. Panciera</author>
+<author>Mikhil Masli</author>
+<author>Loren G. Terveen</author>
+<title>Cr&egrave;me de la cr&egrave;me: Elite contributors in an online community.</title>
+<pages>21:1-21:10</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641609</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#PancieraMT14</url>
+</inproceedings><inproceedings mdate="2020-05-30" key="conf/wikis/KrishnaBJ18">
+<author>Shubham Krishna</author>
+<author>Romain Billot</author>
+<author orcid="0000-0002-9039-9021">Nicolas Jullien</author>
+<title>A clustering approach to infer Wikipedia contributors' profile.</title>
+<pages>24:1-24:5</pages>
+<year>2018</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3233391.3233968</ee>
+<ee>https://www.wikidata.org/entity/Q87832909</ee>
+<crossref>conf/wikis/2018</crossref>
+<url>db/conf/wikis/opensym2018.html#KrishnaBJ18</url>
+</inproceedings><inproceedings mdate="2018-11-14" key="conf/wikis/Lucke14">
+<author>J&ouml;rn von Lucke</author>
+<title>Open Societal Innovation.</title>
+<pages>14:1-14:3</pages>
+<year>2014</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2641580.2641598</ee>
+<ee>https://www.wikidata.org/entity/Q56681090</ee>
+<crossref>conf/wikis/2014</crossref>
+<url>db/conf/wikis/opensym2014.html#Lucke14</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/KitturPK09">
+<author>Aniket Kittur</author>
+<author>Bryan A. Pendleton</author>
+<author>Robert E. Kraut</author>
+<title>Herding the cats: the influence of groups in coordinating peer production.</title>
+<year>2009</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1641309.1641321</ee>
+<ee>https://www.wikidata.org/entity/Q66710894</ee>
+<crossref>conf/wikis/2009</crossref>
+<url>db/conf/wikis/wikis2009.html#KitturPK09</url>
+</inproceedings><inproceedings mdate="2019-10-19" key="conf/wikis/ForsythC11">
+<author>Pete Forsyth</author>
+<author orcid="0000-0002-0390-3710">Robert E. Cummings</author>
+<title>COLT: a proposed center for open teaching and learning.</title>
+<pages>199-200</pages>
+<year>2011</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/2038558.2038592</ee>
+<ee>https://www.wikidata.org/entity/Q19414433</ee>
+<crossref>conf/wikis/2011</crossref>
+<url>db/conf/wikis/wikis2011.html#ForsythC11</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Puente07">
+<author>Xavier de Pedro Puente</author>
+<title>New method using Wikis and forums to evaluate individual contributions in cooperative work while promoting experiential learning: : results from preliminary experience.</title>
+<pages>87-92</pages>
+<year>2007</year>
+<crossref>conf/wikis/2007</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1296951.1296961</ee>
+<ee>https://www.wikidata.org/entity/Q66711165</ee>
+<url>db/conf/wikis/wikis2007.html#Puente07</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/Rick07">
+<author>Jochen Rick</author>
+<title>AniAniWeb: a wiki approach to personal home pages.</title>
+<pages>99-118</pages>
+<year>2007</year>
+<crossref>conf/wikis/2007</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1296951.1296963</ee>
+<ee>https://www.wikidata.org/entity/Q66708938</ee>
+<url>db/conf/wikis/wikis2007.html#Rick07</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/CoughlanFNH13">
+<author>Shane Coughlan</author>
+<author>Kana Fukuma</author>
+<author>Tetsuo Noda</author>
+<author>Yasumichi Hanagata</author>
+<title>Data twist: an experimental script family to twist open data into new shapes.</title>
+<pages>43:1</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491098</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#CoughlanFNH13</url>
+</inproceedings><inproceedings mdate="2019-10-19" key="conf/wikis/FordSMM13">
+<author orcid="0000-0002-3500-9772">Heather Ford</author>
+<author>Shilad Sen</author>
+<author>David R. Musicant</author>
+<author>Nathaniel Miller</author>
+<title>Getting to the source: where does Wikipedia get its information from?</title>
+<pages>9:1-9:10</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491064</ee>
+<ee>https://www.wikidata.org/entity/Q41793368</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#FordSMM13</url>
+</inproceedings><inproceedings mdate="2018-11-14" key="conf/wikis/YasseriQM13">
+<author orcid="0000-0002-1800-6094">Taha Yasseri</author>
+<author>Giovanni Quattrone</author>
+<author>Afra J. Mashhadi</author>
+<title>Temporal analysis of activity patterns of editors in collaborative mapping project of OpenStreetMap.</title>
+<pages>13:1-13:4</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491068</ee>
+<ee>https://www.wikidata.org/entity/Q57774494</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#YasseriQM13</url>
+</inproceedings><inproceedings mdate="2018-11-06" key="conf/wikis/Umair17">
+<author>Azka Umair</author>
+<title>Individual Work Behavior in Online Labor Markets: Temporality and Job Satisfaction.</title>
+<pages>7:1-7:5</pages>
+<year>2017</year>
+<booktitle>OpenSym (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3126673.3126680</ee>
+<crossref>conf/wikis/2017c</crossref>
+<url>db/conf/wikis/opensym2017c.html#Umair17</url>
+</inproceedings><inproceedings mdate="2018-11-28" key="conf/wikis/LioFL05">
+<author>Elizabeth Da Lio</author>
+<author>Lucia Fraboni</author>
+<author>Tommaso Leo</author>
+<title>TWiki-based facilitation in a newly formed academic community of practice.</title>
+<pages>85-111</pages>
+<year>2005</year>
+<crossref>conf/wikis/2005</crossref>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1104973.1104982</ee>
+<url>db/conf/wikis/wikis2005.html#LioFL05</url>
+</inproceedings><inproceedings mdate="2019-10-19" key="conf/wikis/OLearyONS17">
+<author>Anthony O'Leary</author>
+<author orcid="0000-0003-2056-9854">Paidi O'Raghallaigh</author>
+<author orcid="0000-0002-6123-7349">Tadhg Nagle</author>
+<author orcid="0000-0001-6138-0105">David Sammon</author>
+<title>Crowdsourcing from the Community to Resolve Complex Service Requests.</title>
+<pages>5:1-5:5</pages>
+<year>2017</year>
+<booktitle>OpenSym (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3126673.3126677</ee>
+<crossref>conf/wikis/2017c</crossref>
+<url>db/conf/wikis/opensym2017c.html#OLearyONS17</url>
+</inproceedings><inproceedings mdate="2019-11-28" key="conf/wikis/VodanovichRDS09">
+<author>Shahper Vodanovich</author>
+<author>Max Erik Rohde</author>
+<author>Ching-Shen Dong</author>
+<author>David Sundaram</author>
+<title>Wikis to support collaborative web spaces to promote youth well-being.</title>
+<year>2009</year>
+<booktitle>Int. Sym. Wikis</booktitle>
+<ee>https://doi.org/10.1145/1641309.1641345</ee>
+<ee>https://www.wikidata.org/entity/Q66711651</ee>
+<crossref>conf/wikis/2009</crossref>
+<url>db/conf/wikis/wikis2009.html#VodanovichRDS09</url>
+</inproceedings><inproceedings mdate="2019-06-02" key="conf/wikis/WichmannHECHH16">
+<author>Astrid Wichmann</author>
+<author>Tobias Hecking</author>
+<author orcid="0000-0001-7806-9583">Malte Elson</author>
+<author orcid="0000-0002-4089-3830">Nina Christmann</author>
+<author orcid="0000-0002-9270-4501">Thomas Herrmann</author>
+<author>Heinz Ulrich Hoppe</author>
+<title>Group Formation for Small-Group Learning: Are Heterogeneous Groups More Productive?</title>
+<pages>14:1-14:4</pages>
+<year>2016</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2957792.2965662</ee>
+<ee>https://www.wikidata.org/entity/Q59562358</ee>
+<crossref>conf/wikis/2016</crossref>
+<url>db/conf/wikis/opensym2016.html#WichmannHECHH16</url>
+</inproceedings><inproceedings mdate="2020-10-25" key="conf/wikis/SaddiqaRMLP19">
+<author>Mubashrah Saddiqa</author>
+<author>Lise Rasmussen</author>
+<author>Rikke Magnussen</author>
+<author orcid="0000-0002-3622-2698">Birger Larsen</author>
+<author orcid="0000-0002-1903-2921">Jens Myrup Pedersen</author>
+<title>Bringing open data into danish schools and its potential impact on school pupils.</title>
+<pages>9:1-9:10</pages>
+<year>2019</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3306446.3340821</ee>
+<crossref>conf/wikis/2019</crossref>
+<url>db/conf/wikis/opensym2019.html#SaddiqaRMLP19</url>
+</inproceedings>
+<phdthesis mdate="2020-07-30" key="phd/dnb/Mikulcak20">
+<author>Marcus Mikulcak</author>
+<title>Information flow analysis of discrete embedded control system models.</title>
+<year>2020</year>
+<school>Technical University of Berlin, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-2020070101593817078975</ee>
+<ee>http://d-nb.info/1212927907</ee>
+</phdthesis><phdthesis mdate="2017-01-20" key="phd/dnb/Dorner03">
+<author>Wolfgang D&ouml;rner</author>
+<title>IT-Investitionen: investitionstheoretische Behandlung von Unsicherheit.</title>
+<year>2003</year>
+<pages>1-349</pages>
+<publisher>Kova&#269;</publisher>
+<school>Darmstadt University of Technology, Germany</school>
+<isbn>978-3-8300-1086-9</isbn>
+<ee>http://d-nb.info/96784889X</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Rein10">
+<author>Stephan Rein</author>
+<title>Low complexity text and image compression for wireless devices and sensors.</title>
+<year>2010</year>
+<school>Berlin Institute of Technology</school>
+<ee>http://opus.kobv.de/tuberlin/volltexte/2010/2677/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:kobv:83-opus-26779</ee>
+<ee>http://d-nb.info/1005940142</ee>
+</phdthesis><phdthesis mdate="2017-03-29" key="phd/dnb/Roth93a">
+<author>Eckhard Roth</author>
+<title>Untersuchung von Subpixelverfahren zur Steigerung der Antastgenauigkeit optisch wirksamer Strukturen in Verbindung mit automatisch arbeitenden, fehlertoleranten Strukturlageerkennungsverfahren.</title>
+<year>1993</year>
+<school>University of Jena, Germany</school>
+<ee>http://d-nb.info/931995353</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Bollig16">
+<author>Andreas Bollig</author>
+<title>Spectrum sensing in cognitive radio.</title>
+<year>2016</year>
+<school>RWTH Aachen University, Germany</school>
+<ee>http://publications.rwth-aachen.de/record/679117</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:hbz:82-rwth-2016-109259</ee>
+<ee>http://d-nb.info/113079248X</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Holzer13">
+<author>Markus Holzer 0004</author>
+<title>Entwurf datendurchsatzoptimierter Hardware-Architekturen morphologischer Bildverarbeitungsoperationen.</title>
+<year>2013</year>
+<publisher>Verlag Dr. Hut</publisher>
+<school>University of T&uuml;bingen, Germany</school>
+<ee>http://www.dr.hut-verlag.de/978-3-8439-1082-8.html</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-201307202806</ee>
+<ee>http://d-nb.info/103728996X</ee>
+</phdthesis>
+<phdthesis mdate="2020-02-12" key="phd/dnb/Wittmann16">
+<author>Markus Wittmann</author>
+<title>Hardware-effiziente, hochparallele Implementierungen von Lattice-Boltzmann-Verfahren f&uuml;r komplexe Geometrien.</title>
+<year>2016</year>
+<school>University of Erlangen-Nuremberg, Germany</school>
+<ee>https://opus4.kobv.de/opus4-fau/frontdoor/index/index/docId/7458</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:29-opus4-74586</ee>
+<ee>http://d-nb.info/1113290986</ee>
+</phdthesis><phdthesis mdate="2016-04-22" key="phd/dnb/Standtke13">
+<author>Ronny Standtke</author>
+<title>Pretty good anonymity: achieving high performance anonymity services with a single node architecture.</title>
+<year>2013</year>
+<pages>1-209</pages>
+<publisher>Logos-Verlag</publisher>
+<school>University of Fribourg</school>
+<isbn>978-3-8325-3365-6</isbn>
+<ee>http://d-nb.info/1032358068</ee>
+</phdthesis><phdthesis mdate="2017-01-06" key="phd/dnb/Weissbach92">
+<author>Severin Weissbach</author>
+<title>Das Fehlerdiffusionsverfahren: Theorie und Anwendung in der optischen Informationsverarbeitung.</title>
+<year>1992</year>
+<pages>1-115</pages>
+<school>University of Duisburg-Essen, Germany</school>
+<isbn>978-3-89432-070-6</isbn>
+<ee>http://d-nb.info/920773680</ee>
+</phdthesis><phdthesis mdate="2016-10-06" key="phd/dnb/Hommel75">
+<author>Hendrik Hommel</author>
+<title>Anwendung der dynamischen Programmierung in der Wasserwirtschaft.</title>
+<year>1975</year>
+<pages>1-221</pages>
+<school>Technische Universit&auml;t Hannover, Germany</school>
+<ee>http://d-nb.info/820641146</ee>
+</phdthesis><phdthesis mdate="2020-10-07" key="phd/dnb/Amann11">
+<author>Johanna Amann</author>
+<title>Redundancy and access permissions in decentralized file systems.</title>
+<year>2011</year>
+<pages>1-248</pages>
+<school>Technical University Munich</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20110905-1079733-0-6</ee>
+<ee>http://d-nb.info/1030099847</ee>
+<ee>http://d-nb.info/1032093161</ee>
+</phdthesis>
+<phdthesis mdate="2020-02-12" key="phd/dnb/Solsbach15">
+<author>Andreas Solsbach</author>
+<title>Document Engineering als Ansatz f&uuml;r eine &uuml;berbetriebliche Nachhaltigkeitsberichterstattung.</title>
+<year>2015</year>
+<publisher>Shaker</publisher>
+<school>Carl von Ossietzky University of Oldenburg</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-201601031441</ee>
+<ee>http://d-nb.info/1080762833</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Milijic12">
+<author>Vesna Milijic</author>
+<title>Sprachspezifikation und formales Modell als semantisch &auml;quivalente Repr&auml;sentationen komplexen Systemverhaltens.</title>
+<year>2012</year>
+<publisher>Verlag Dr. Hut</publisher>
+<school>FernUniversit&auml;t in Hagen</school>
+<ee>http://www.dr.hut-verlag.de/978-3-8439-0668-5.html</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-2012121010879</ee>
+<ee>http://d-nb.info/1028785038</ee>
+</phdthesis><phdthesis mdate="2016-11-28" key="phd/dnb/Dabbagh90">
+<author>Salaheddin Dabbagh</author>
+<title>Funktion, Architektur und Anwendung moderner Mikroprozessoren und Transputer.</title>
+<year>1990</year>
+<school>Dresden University of Technology, Germany</school>
+<ee>http://d-nb.info/910096104</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Krusche16">
+<author>Stephan Krusche</author>
+<title>Rugby - A Process Model for Continuous Software Engineering.</title>
+<year>2016</year>
+<school>Technical University Munich, Germany</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20160311-1290336-1-0</ee>
+<ee>http://d-nb.info/1100689052</ee>
+</phdthesis><phdthesis mdate="2019-03-14" key="phd/dnb/Koch81">
+<author>Eckhard Koch 0002</author>
+<title>Ein koh&auml;rentoptisches Filterverfahren f&uuml;r die Zeichenerkennung.</title>
+<year>1981</year>
+<school>Dresden University of Technology, Germany</school>
+<ee>http://d-nb.info/820990582</ee>
+</phdthesis>
+<phdthesis mdate="2017-01-17" key="phd/dnb/Schlender99">
+<author>Dirk Schlender</author>
+<title>Anforderungen an die Detailstufenverwaltung in virtuellen Simulationsumgebungen = Requirements for the level of detailmanagement in virtual environments.</title>
+<year>1999</year>
+<pages>1-161</pages>
+<publisher>VDI-Verlag</publisher>
+<school>University of Wuppertal, Germany</school>
+<isbn>978-3-18-359710-9</isbn>
+<ee>http://d-nb.info/957730160</ee>
+</phdthesis><phdthesis mdate="2017-03-30" key="phd/dnb/Schafer95">
+<author>Barbara Sch&auml;fer</author>
+<title>Rezeptorstudien an den Gef&auml;ssen des Innenohres mit Hilfe der quantitativen Fluoreszenz-Mikroskopie und digitaler Bild- und Datenverarbeitung mit einer CCD-Kamera.</title>
+<year>1995</year>
+<school>Ludwig Maximilian University of Munich, Germany</school>
+<ee>http://d-nb.info/944894763</ee>
+</phdthesis><phdthesis mdate="2016-11-29" key="phd/dnb/Winter96">
+<author>Stephan Winter 0001</author>
+<title>Unsichere topologische Beziehungen zwischen ungenauen Fl&auml;chen.</title>
+<year>1996</year>
+<pages>1-66</pages>
+<publisher>Beck</publisher>
+<school>University of Bonn, Germany</school>
+<isbn>3-7696-9506-2</isbn>
+<ee>http://d-nb.info/950337609</ee>
+</phdthesis>
+<phdthesis mdate="2016-10-31" key="phd/dnb/Ahmad84">
+<author>Hamdi El-Badawi Ahmad</author>
+<title>A study of efficient digital speech processing systems with applications to arabic.</title>
+<year>1984</year>
+<school>ETH Zurich, Z&uuml;rich, Switzerland</school>
+<ee>http://d-nb.info/947517456</ee>
+</phdthesis><phdthesis mdate="2016-11-17" key="phd/dnb/Keller89">
+<author>Rudolf K. Keller</author>
+<title>Prototypingorientierte Systemspezifikation: Konzepte, Methoden, Werkzeuge und Konsequenzen.</title>
+<year>1989</year>
+<pages>1-259</pages>
+<publisher>Kova&#269;</publisher>
+<school>University of Zurich, Z&uuml;rich, Switzerland</school>
+<isbn>978-3-925630-25-5</isbn>
+<ee>http://d-nb.info/880428872</ee>
+</phdthesis><phdthesis mdate="2017-03-13" key="phd/dnb/Karrlein90">
+<author>Wolfgang Karrlein</author>
+<title>Computersimulation zur Modenselektivit&auml;t in einfachen und komplexen chemischen Modellsystemen.</title>
+<year>1990</year>
+<pages>1-234</pages>
+<school>Julius Maximilians University W&uuml;rzburg, Germany</school>
+<ee>http://d-nb.info/910331138</ee>
+</phdthesis><phdthesis mdate="2016-12-01" key="phd/dnb/Strey91">
+<author>Alfred Strey</author>
+<title>Ein Vergleich von Verbindungsnetzwerken f&uuml;r grosse SIMD-Parallelrechner.</title>
+<year>1991</year>
+<pages>1-208</pages>
+<school>University of Erlangen-Nuremberg, Germany</school>
+<ee>http://d-nb.info/920283675</ee>
+</phdthesis><phdthesis mdate="2016-12-15" key="phd/dnb/Bachmann93">
+<author>Reinhard Bachmann</author>
+<title>Die Praxis der Wissenstechnologie: soziologische Rekronstruktionen am Beispiel der Entwicklung und des Einsatzes von wissensbasierten Konfigurationssystemen.</title>
+<year>1993</year>
+<school>Technical University of Dortmund, Germany</school>
+<ee>http://d-nb.info/940740508</ee>
+</phdthesis><phdthesis mdate="2017-01-17" key="phd/dnb/Pretot99">
+<author>G&eacute;rald Jean-Pierre Pr&eacute;t&ocirc;t</author>
+<title>HPCS: client-server support for High Performance Computing.</title>
+<year>1999</year>
+<pages>1-170</pages>
+<publisher>Shaker</publisher>
+<school>University of Basel, Switzerland</school>
+<isbn>978-3-8265-6700-1</isbn>
+<ee>http://d-nb.info/958141371</ee>
+</phdthesis><phdthesis mdate="2017-02-15" key="phd/dnb/Schulze78">
+<author>Dietrich Schulze</author>
+<title>Untersuchungen zum Informationsverarbeitungsprozess im Veterin&auml;rwesen: Konzeption und Realisierung des veterin&auml;rmedizinischen Informationssystems (VETINFORM).</title>
+<school>Akademie der Landwirtschaftswissenschaften, Berlin, Germany</school>
+<year>1978</year>
+<ee>http://d-nb.info/942990943</ee>
+</phdthesis><phdthesis mdate="2017-01-09" key="phd/dnb/Geiselmann94">
+<author>Willi Geiselmann</author>
+<title>Algebraische Algorithmenentwicklung am Beispiel der Arithmetik in endlichen K&ouml;rpern.</title>
+<year>1994</year>
+<pages>1-130</pages>
+<publisher>Shaker</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<isbn>978-3-86111-905-0</isbn>
+<ee>http://d-nb.info/940829177</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Schweinsberg12">
+<author>Kai Schweinsberg</author>
+<title>Abbildung von XML-Dokumenten auf SQL:2003-konforme Datentypen.</title>
+<year>2012</year>
+<school>University of Kassel</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:hebis:34-2012081041594</ee>
+<ee>http://d-nb.info/1026358884</ee>
+</phdthesis><phdthesis mdate="2017-03-17" key="phd/dnb/Laube93">
+<author>Thomas Laube</author>
+<title>Planung und Programmierung eines klinischen Datenerhebungs- und Verarbeitungsprogramms f&uuml;r die Universit&auml;tsaugenklinik D&uuml;sseldorf.</title>
+<year>1993</year>
+<pages>1-90</pages>
+<school>University of D&uuml;sseldorf, Germany</school>
+<ee>http://d-nb.info/940745550</ee>
+</phdthesis><phdthesis mdate="2020-04-21" key="phd/dnb/Zimmer13">
+<author>Michael Zimmer 0002</author>
+<title>Software zur hocheffizienten L&ouml;sung von Intervallgleichungssystemen mit C-XSC.</title>
+<year>2013</year>
+<school>University of Wuppertal</school>
+<ee type="oa">http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2013/zimmer/dc1302.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:hbz:468-20130226-151045-5</ee>
+<ee>http://d-nb.info/103362201X</ee>
+</phdthesis>
+<phdthesis mdate="2017-01-06" key="phd/dnb/Strauss95">
+<author>Friedrich Strau&szlig;</author>
+<title>Ein situationsbasiertes Interaktionsmodell: Unterst&uuml;tzung von Dialogsteuerung und Selbsterkl&auml;rungsf&auml;higkeit in graphisch interaktiven Systemen.</title>
+<year>1995</year>
+<pages>1-178</pages>
+<school>University of Freiburg, Freiburg im Breisgau, Germany</school>
+<ee>http://d-nb.info/948917318</ee>
+</phdthesis><phdthesis mdate="2016-12-02" key="phd/dnb/Le91">
+<author>Ngoc-Minh L&ecirc;</author>
+<title>Algorithmen zur exakten Planung kollisionsfreier Bewegungen f&uuml;r Objekte mit vier Freiheitsgraden.</title>
+<year>1991</year>
+<pages>1-152</pages>
+<publisher>VDI-Verlag</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<ee>http://d-nb.info/911374582</ee>
+</phdthesis>
+<phdthesis mdate="2017-01-09" key="phd/dnb/Kern93">
+<author>Axel Kern</author>
+<title>Entwurf, Bewertung und Optimierung eines Kommunikationssystems f&uuml;r Parallelrechner.</title>
+<year>1993</year>
+<pages>1-129</pages>
+<school>Braunschweig University of Technology, Germany</school>
+<ee>http://d-nb.info/931040914</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Tenorth11">
+<author>Moritz Tenorth</author>
+<title>Knowledge Processing for Autonomous Robots.</title>
+<year>2011</year>
+<pages>1-211</pages>
+<school>Technical University Munich</school>
+<ee>https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20111125-1079930-1-7</ee>
+<ee>http://d-nb.info/1019589876</ee>
+<ee>http://d-nb.info/1020217421</ee>
+</phdthesis><phdthesis mdate="2017-03-28" key="phd/dnb/Ramme90">
+<author>Andreas Ramme</author>
+<title>&Ouml;konomische Aspekte des Einsatzes der Informationstechnik in der Landwirtschaft der DDR.</title>
+<year>1990</year>
+<school>Akademie f&uuml;r Gesellschaftswissenschaften, Berlin, Germany</school>
+<ee>http://d-nb.info/910127441</ee>
+</phdthesis><phdthesis mdate="2018-08-24" key="phd/dnb/Hoffmann81">
+<author>Ulrich Hoffmann 0003</author>
+<title>Stochastische Packungsalgorithmen.</title>
+<year>1981</year>
+<pages>1-83</pages>
+<school>University of Stuttgart, Germany</school>
+<ee>http://d-nb.info/820449490</ee>
+</phdthesis><phdthesis mdate="2016-11-14" key="phd/dnb/Voigt87d">
+<author>Andreas Voigt</author>
+<title>Methodik zum systemgerechten Entwurf von Handhabeprogrammen f&uuml;r Beschickungsroboter in flexiblen Fertigungssystemen.</title>
+<year>1987</year>
+<school>Technische Hochschule Karl-Marx-Stadt, Germany</school>
+<ee>http://d-nb.info/891730389</ee>
+</phdthesis><phdthesis mdate="2017-01-13" key="phd/dnb/Ripke98">
+<author>Torsten Ripke</author>
+<title>Verteilte hybride Synchronisationstechniken in Mehrschichten-Transaktionssystemen.</title>
+<year>1998</year>
+<pages>1-106</pages>
+<publisher>Papierflieger</publisher>
+<school>Clausthal University of Technology, Clausthal-Zellerfeld, Germany</school>
+<isbn>978-3-89720-169-9</isbn>
+<ee>http://d-nb.info/954269241</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Engelhardt13">
+<author>Thomas Engelhardt</author>
+<title>Efficient From-Point Visibility for Global Illumination in Virtual Scenes with Participating Media.</title>
+<year>2013</year>
+<pages>1-198</pages>
+<publisher>Shaker</publisher>
+<school>Karlsruhe Institute of Technology</school>
+<isbn>978-3-8440-1965-0</isbn>
+<ee>http://digbib.ubka.uni-karlsruhe.de/volltexte/1000034777</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:swb:90-347771</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-201405259869</ee>
+<ee>http://d-nb.info/1034549480</ee>
+<ee>http://d-nb.info/1034865633</ee>
+<ee>http://d-nb.info/1051572428</ee>
+</phdthesis><book mdate="2018-04-21" key="phd/dnb/Moller87">
+<author>Klaus M&ouml;ller</author>
+<title>Signalgruppenorientiertes Modell zur Optimierung von Festzeitprogrammen an Einzelknotenpunkten.</title>
+<year>1987</year>
+<pages>1-22</pages>
+<publisher>ifv, Kalsruhe, Germany</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<ee>http://d-nb.info/871285371</ee>
+</book>
+<phdthesis mdate="2020-02-12" key="phd/dnb/Grieskamp99">
+<author>Wolfgang Grieskamp</author>
+<title>A set based calculus and its implementation.</title>
+<year>1999</year>
+<school>Technical University of Berlin, Germany</school>
+<ee>http://edocs.tu-berlin.de/diss/1999/grieskamp_wolfgang.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:kobv:83-opus-77</ee>
+<ee>http://d-nb.info/959592393</ee>
+</phdthesis><phdthesis mdate="2017-01-30" key="phd/dnb/Daniel16">
+<author>Christian Daniel</author>
+<title>Learning hierarchical policies from human ratings.</title>
+<year>2016</year>
+<pages>1-123</pages>
+<school>Darmstadt University of Technology, Germany</school>
+<ee>http://d-nb.info/1103831178</ee>
+</phdthesis><phdthesis mdate="2016-12-01" key="phd/dnb/Wuthrich91">
+<author>Charles Albert W&uuml;thrich</author>
+<title>Discrete lattices as a model for Computer Graphics: an evaluation of their dispositions on the plane.</title>
+<year>1991</year>
+<pages>1-171</pages>
+<school>University of Zurich, Z&uuml;rich, Switzerland</school>
+<ee>http://d-nb.info/947358137</ee>
+</phdthesis><phdthesis mdate="2017-03-15" key="phd/dnb/Krieb91">
+<author>Christian Krieb</author>
+<title>Konzeption einer effizienten Schalterebenen-Simulationsumgebung zur Unterst&uuml;tzung des transistororientierten Entwurfs hochintegrierter Schaltkreise.</title>
+<year>1991</year>
+<school>Technical University of Dortmund, Germany</school>
+<ee>http://d-nb.info/930098714</ee>
+</phdthesis><phdthesis mdate="2017-05-15" key="phd/dnb/Slgini91">
+<author>Zaki Khatib Slgini</author>
+<title>Die Gestaltung des Generatorblock-Schutzes unter dem Aspekt des Mikrorechnereinsatzes.</title>
+<year>1991</year>
+<school>Technische Hochschule Zittau, Germany</school>
+<ee>http://d-nb.info/920593879</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Smith11">
+<author>Kaleigh Smith</author>
+<title>Contours and contrast.</title>
+<year>2011</year>
+<school>Saarland University</school>
+<ee>http://scidok.sulb.uni-saarland.de/volltexte/2011/4103/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:291-scidok-41032</ee>
+<ee>http://d-nb.info/1051324262</ee>
+</phdthesis><phdthesis mdate="2016-11-03" key="phd/dnb/Koitz85">
+<author>Rainer Koitz</author>
+<title>Rationalisierung der Rechtsanwendung im Aussenhandel durch automatisierte Informationsverarbeitung.</title>
+<year>1985</year>
+<school>Hochschule f&uuml;r &Ouml;konomie, Berlin, Germany</school>
+<ee>http://d-nb.info/860202402</ee>
+</phdthesis><phdthesis mdate="2020-03-12" key="phd/dnb/Kreutzmann14">
+<author>Arne Kreutzmann</author>
+<title>Qualitative spatial and temporal reasoning based on And/Or linear programming: an approach to partially grounded qualitative spatial reasoning.</title>
+<year>2014</year>
+<pages>1-179</pages>
+<school>University of Bremen</school>
+<ee type="oa">http://elib.suub.uni-bremen.de/edocs/00104137-1.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:gbv:46-00104137-16</ee>
+<ee>http://d-nb.info/1065009771</ee>
+<ee>http://d-nb.info/1072226669</ee>
+</phdthesis><phdthesis mdate="2016-11-10" key="phd/dnb/Becker86">
+<author>Barbara Becker</author>
+<title>Wissen und Probleml&ouml;sung im Spiegel neuer Entwicklungen der Computertechnologie: Bestandsaufnahme und Versuch der Einsch&auml;tzung des soziokulturellen Ph&auml;nomens K&uuml;nstliche Intelligenz.</title>
+<year>1986</year>
+<pages>1-213</pages>
+<school>Technical University of Dortmund, Germany</school>
+<ee>http://d-nb.info/870822055</ee>
+</phdthesis><phdthesis mdate="2016-09-30" key="phd/dnb/Malaviya96">
+<author>Ashutosh Malaviya</author>
+<title>On-line handwriting recognition with a fuzzy feature description language.</title>
+<year>1996</year>
+<pages>1-159</pages>
+<publisher>Oldenbourg</publisher>
+<school>Berlin Institute of Technology</school>
+<isbn>3-486-24072-2</isbn>
+<ee>http://d-nb.info/948691387</ee>
+</phdthesis><phdthesis mdate="2017-03-14" key="phd/dnb/Knepper89">
+<author>Roger Knepper</author>
+<title>Die Anwendung der Semi-Markoff- und verwandten Prozesse als sicherheits- und zuverl&auml;ssigkeitstechnisches Analyseverfahren zur quantitativen Bewertung technischer Systeme.</title>
+<year>1989</year>
+<pages>1-208</pages>
+<publisher>VDI-Verlag</publisher>
+<school>University of Wuppertal, Germany</school>
+<isbn>978-3-18-149808-8</isbn>
+<ee>http://d-nb.info/911431241</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Borokhovych11">
+<author>Yevgen Borokhovych</author>
+<title>High-speed data capturing components for Super Resolution Maximum Length Binary Sequence UWB Radar.</title>
+<year>2011</year>
+<pages>1-121</pages>
+<school>Brandenburg University of Technology</school>
+<ee>http://opus.kobv.de/btu/volltexte/2012/2450/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:kobv:co1-opus-24501</ee>
+<ee>http://d-nb.info/1023040662</ee>
+<ee>http://d-nb.info/1023337037</ee>
+</phdthesis><phdthesis mdate="2016-12-01" key="phd/dnb/Nopper15">
+<author>Tobias Nopper</author>
+<title>Verifikation unvollst&auml;ndiger Schaltkreise.</title>
+<year>2015</year>
+<publisher>Der Andere Verlag</publisher>
+<school>University of Freiburg, Freiburg im Breisgau, Germany</school>
+<isbn>978-3-86247-545-2</isbn>
+<ee>http://d-nb.info/1080530797</ee>
+</phdthesis><phdthesis mdate="2017-01-09" key="phd/dnb/Klingert94">
+<author>Arnold Klingert</author>
+<title>Rekonstruktion von geometrischen 3D-Objekten durch Interpolation von Konturdaten.</title>
+<year>1994</year>
+<pages>1-156</pages>
+<publisher>Shaker</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<isbn>978-3-86111-791-9</isbn>
+<ee>http://d-nb.info/940145839</ee>
+</phdthesis><phdthesis mdate="2017-03-21" key="phd/dnb/Mitrou93">
+<author>Evangelia Mitrou</author>
+<title>Die Entwicklung der institutionellen Kontrolle des Datenschutzes: Kontrollmodelle und Kontrollinstanzen in der Bundesrepublik Deutschland und Frankreich.</title>
+<year>1993</year>
+<pages>1-296</pages>
+<publisher>Nomos-Verlag-Ges.</publisher>
+<school>Goethe University Frankfurt, Germany</school>
+<isbn>978-3-7890-3123-6</isbn>
+<ee>http://d-nb.info/931570239</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Huber11a">
+<author>Martin Huber 0003</author>
+<title>Structural design optimization including quantitative manufacturing aspects derived from fuzzy knowledge.</title>
+<year>2011</year>
+<pages>1-160</pages>
+<publisher>Verlag Dr. Hut</publisher>
+<school>Technical University Munich</school>
+<isbn>978-3-86853-806-9</isbn>
+<ee>http://www.dr.hut-verlag.de/978-3-86853-806-9.html</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:101:1-20110503839</ee>
+<ee>http://d-nb.info/101057048X</ee>
+<ee>http://d-nb.info/1011441276</ee>
+</phdthesis>
+<phdthesis mdate="2020-02-12" key="phd/dnb/Heisswolf14">
+<author>Jan Hei&szlig;wolf</author>
+<title>A Scalable and Adaptive Network on Chip for Many-Core Architectures.</title>
+<year>2014</year>
+<school>Karlsruhe Institute of Technology</school>
+<ee>http://digbib.ubka.uni-karlsruhe.de/volltexte/1000045305</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:swb:90-453050</ee>
+<ee>http://d-nb.info/1066736855</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Schroder03">
+<author>Arnd Schr&ouml;der</author>
+<title>Erwachsenenbildung mit neuen Medien: zur didaktischen Qualifizierung von Ausbildern in nicht-technischen Bereichen.</title>
+<year>2003</year>
+<school>Braunschweig University of Technology, Germany</school>
+<ee>http://opus.tu-bs.de/opus/volltexte/2003/469/index.html</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:gbv:084-4697</ee>
+<ee>http://d-nb.info/968091571</ee>
+</phdthesis><phdthesis mdate="2016-11-14" key="phd/dnb/Wisweh87">
+<author>Lutz Wisweh</author>
+<title>Rechnerunterst&uuml;tzte technologische Pr&uuml;fvorbereitung bei der Geometriepr&uuml;fung in der Teilefertigung: Vorlaufsanalyse, statist. Methoden, Verfahrens&ouml;konomie.</title>
+<year>1987</year>
+<school>Technische Hochschule Magdeburg, Germany</school>
+<ee>http://d-nb.info/880658630</ee>
+</phdthesis><phdthesis mdate="2016-09-30" key="phd/dnb/Wienand97">
+<author>Frank Wienand</author>
+<title>Robuste Regelung nichtlinearer Prozesse nach der &#956;-Analyse und -Synthese.</title>
+<year>1997</year>
+<pages>1-181</pages>
+<publisher>VDI-Verlag</publisher>
+<school>RWTH Aachen University</school>
+<isbn>3-18-362908-9</isbn>
+<ee>http://d-nb.info/950749427</ee>
+</phdthesis><phdthesis mdate="2016-10-31" key="phd/dnb/Herrmann84">
+<author>Wolfgang Herrmann</author>
+<title>Algorithmusnotation und Programmaufstellung mit Linearstruktogrammen.</title>
+<year>1984</year>
+<school>Dresden University of Technology, Germany</school>
+<ee>http://d-nb.info/860129152</ee>
+</phdthesis><phdthesis mdate="2020-02-12" key="phd/dnb/Waage17">
+<phdthesis mdate="2019-04-14" key="phd/es/Villar2008">
+<author>Santiago Onta&ntilde;&oacute;n Villar</author>
+<title>Ensemble case based learning for multi-agent systems.</title>
+<year>2008</year>
+<school>Autonomous University of Barcelona</school>
+<pages>1-204</pages>
+<isbn>978-3-8364-7430-6</isbn>
+<ee>http://d-nb.info/991197267</ee>
+</phdthesis>
+<phdthesis mdate="2016-05-04" key="phd/es/Barbosa2008">
+<author>&Aacute;lvaro Barbosa</author>
+<title>Displaced soundscapes: computer supported cooperative work for music applications.</title>
+<year>2008</year>
+<school>University of Barcelona</school>
+<pages>1-189</pages>
+<isbn>978-3-8364-7154-1</isbn>
+<ee>http://d-nb.info/991339223</ee>
+</phdthesis><phdthesis mdate="2017-08-21" key="phd/es/Valero13">
+<author>Alejandro Valero</author>
+<title>Hybrid caches: design and data management.</title>
+<year>2013</year>
+<school>Polytechnic University of Valencia, Spain</school>
+<ee>https://riunet.upv.es/handle/10251/32663</ee>
+</phdthesis>
+<phdthesis mdate="2002-01-03" key="phd/Sullivan93">
+<author>Mark Sullivan</author>
+<title>System Support for Software Fault Tolerance in Highly Available Database Management Systems.</title>
+<year>1993</year>
+<school>University of California at Berkeley</school>
+</phdthesis>
+<phdthesis mdate="2020-02-12" key="phd/Ackermann2009">
+<author>Marcel R. Ackermann</author>
+<title>Algorithms for the Bregman k-Median problem.</title>
+<year>2009</year>
+<school>University of Paderborn</school>
+<pages>I-XVI, 1-220</pages>
+<ee type="oa">http://digital.ub.uni-paderborn.de/hs/content/titleinfo/1561</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:hbz:466-20100407029</ee>
+<ee>http://d-nb.info/1002594588</ee>
+<ee>http://d-nb.info/100345531X</ee>
+</phdthesis>
+<mastersthesis mdate="2002-01-03" key="phd/VanRoy84">
+<author>Peter Van Roy</author>
+<title>A Prolog Compiler for the PLM.</title>
+<year>1984</year>
+<school>University of California at Berkeley</school>
+</mastersthesis>
+<incollection mdate="2017-07-12" key="reference/crypt/Bhanu11" publtype="encyclopedia">
+<author>Bir Bhanu</author>
+<title>Ear Shape for Biometric Identification.</title>
+<pages>372-378</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_738</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Bhanu11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11w" publtype="encyclopedia">
+<title>ARP Poisoning.</title>
+<pages>47</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1000</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11w</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Soete11o" publtype="encyclopedia">
+<author>Marijke De Soete</author>
+<title>Token.</title>
+<pages>1305-1306</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_309</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Soete11o</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Cheng11" publtype="encyclopedia">
+<author>Chen-Mou Cheng</author>
+<title>Multi-Threaded Implementation for Cryptography and Cryptanalysis.</title>
+<pages>823-824</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_439</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Cheng11</url>
+</incollection><incollection mdate="2017-09-06" key="reference/crypt/YuLR11" publtype="encyclopedia">
+<author>Shucheng Yu</author>
+<author>Wenjing Lou</author>
+<author>Kui Ren 0001</author>
+<title>Privacy-Preserving Authentication in Wireless Access Networks.</title>
+<pages>972-974</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_51</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#YuLR11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Soete11e" publtype="encyclopedia">
+<author>Marijke De Soete</author>
+<title>Issuer.</title>
+<pages>650</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_290</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Soete11e</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11hh" publtype="encyclopedia">
+<title>Malware.</title>
+<pages>750</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1320</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11hh</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11jr" publtype="encyclopedia">
+<title>Private Key Cryptosystem.</title>
+<pages>976</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1139</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11jr</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11id" publtype="encyclopedia">
+<title>Multicast Stream Authentication.</title>
+<pages>808</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1099</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11id</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Adams05o" publtype="encyclopedia">
+<author>Carlisle Adams</author>
+<title>Personal Identification Number (PIN).</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_299</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Adams05o</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Biryukov05k" publtype="encyclopedia">
+<author>Alex Biryukov</author>
+<title>Differential-Linear Attack.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_109</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Biryukov05k</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bleumer11n" publtype="encyclopedia">
+<author>Gerrit Bleumer</author>
+<title>Existential Forgery.</title>
+<pages>433-434</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_202</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Bleumer11n</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Ellison11" publtype="encyclopedia">
+<author>Carl M. Ellison</author>
+<title>Entropy Sources.</title>
+<pages>421-423</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_201</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Ellison11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11gh" publtype="encyclopedia">
+<title>Inversion in Galois Fields.</title>
+<pages>632</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1102</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11gh</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Naccache11i" publtype="encyclopedia">
+<author>David Naccache</author>
+<title>Naccache-Stern Higher Residues Cryptosystem.</title>
+<pages>829</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_893</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Naccache11i</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Boneh05b" publtype="encyclopedia">
+<author>Dan Boneh</author>
+<title>Blum-Goldwasser Public Key Encryption System.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_38</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Boneh05b</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski11k" publtype="encyclopedia">
+<author>Burt Kaliski</author>
+<title>Field.</title>
+<pages>458</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_407</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Kaliski11k</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski05xe" publtype="encyclopedia">
+<author>Burton S. Kaliski Jr.</author>
+<title>Relatively Prime.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_351</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Kaliski05xe</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bauer05a" publtype="encyclopedia">
+<author>Friedrich L. Bauer</author>
+<title>Alphabet.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_10</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Bauer05a</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Landrock05h" publtype="encyclopedia">
+<author>Peter Landrock</author>
+<title>Electronic Cheque.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_122</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Landrock05h</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Knudsen11a" publtype="encyclopedia">
+<author>Lars R. Knudsen</author>
+<title>CLEFIA.</title>
+<pages>210-211</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_561</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Knudsen11a</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11fc" publtype="encyclopedia">
+<title>Higher Order Derivative Attack.</title>
+<pages>556</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1104</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11fc</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Li11" publtype="encyclopedia">
+<author>Stan Z. Li</author>
+<title>Biometrics in Video Surveillance.</title>
+<pages>139-142</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_733</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Li11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski05i" publtype="encyclopedia">
+<author>Burton S. Kaliski Jr.</author>
+<title>Extension Field.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_151</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Kaliski05i</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Smith11c" publtype="encyclopedia">
+<author>Sean W. Smith</author>
+<title>Logic Bomb.</title>
+<pages>734</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_708</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Smith11c</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/WongchaowartL11" publtype="encyclopedia">
+<author>Brian Wongchaowart</author>
+<author>Adam J. Lee</author>
+<title>Trust Management.</title>
+<pages>1320-1323</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_832</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#WongchaowartL11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Desmedt05i" publtype="encyclopedia">
+<author>Yvo Desmedt</author>
+<title>Threshold Cryptography.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_428</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Desmedt05i</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Schoenmakers05d" publtype="encyclopedia">
+<author>Berry Schoenmakers</author>
+<title>Oblivious Transfer.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_285</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Schoenmakers05d</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Canteaut11m" publtype="encyclopedia">
+<author>Anne Canteaut</author>
+<title>Running-Key.</title>
+<pages>1073</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_368</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Canteaut11m</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bleumer11ae" publtype="encyclopedia">
+<author>Gerrit Bleumer</author>
+<title>Unlinkability.</title>
+<pages>1350</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_236</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Bleumer11ae</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski11s" publtype="encyclopedia">
+<author>Burt Kaliski</author>
+<title>Legendre Symbol.</title>
+<pages>716</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_418</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Kaliski11s</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11bv" publtype="encyclopedia">
+<title>Computationally Sound Proof System.</title>
+<pages>245</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1198</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11bv</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11bq" publtype="encyclopedia">
+<title>Code Verification.</title>
+<pages>215</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1370</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11bq</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Sendrier11b" publtype="encyclopedia">
+<author>Nicolas Sendrier</author>
+<title>Niederreiter Encryption Scheme.</title>
+<pages>842-843</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_385</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Sendrier11b</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/ShamirT11" publtype="encyclopedia">
+<author>Adi Shamir</author>
+<author>Eran Tromer</author>
+<title>TWIRL.</title>
+<pages>1338-1339</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_483</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#ShamirT11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11ih" publtype="encyclopedia">
+<title>Near Field Communication.</title>
+<pages>829</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1080</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11ih</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Canniere05a" publtype="encyclopedia">
+<author>Christophe De Canni&egrave;re</author>
+<title>Camellia.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_44</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Canniere05a</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Meadows11d" publtype="encyclopedia">
+<author>Catherine A. Meadows</author>
+<title>Theorem Proving and Security.</title>
+<pages>1285-1287</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_869</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Meadows11d</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11ln" publtype="encyclopedia">
+<title>Secure Wireless Mesh Networks.</title>
+<pages>1143</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1194</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11ln</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Soete11q" publtype="encyclopedia">
+<author>Marijke De Soete</author>
+<title>User Verification Method.</title>
+<pages>1352</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_311</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Soete11q</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Samarati11" publtype="encyclopedia">
+<author>Pierangela Samarati</author>
+<title>Administrative Policies.</title>
+<pages>21-23</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_808</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Samarati11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Plate11" publtype="encyclopedia">
+<author>Angelika Plate</author>
+<title>ISMS: A Management Framework for Information Security.</title>
+<pages>647-648</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_289</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Plate11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Heinrich05" publtype="encyclopedia">
+<author>Clemens Heinrich</author>
+<title>Pretty Good Privacy (PGP).</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_310</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Heinrich05</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Adams05l" publtype="encyclopedia">
+<author>Carlisle Adams</author>
+<title>Kerberos Authentication Protocol.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_216</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Adams05l</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kopsell11" publtype="encyclopedia">
+<author>Stefan K&ouml;psell</author>
+<title>Anonymous Web Browsing and Publishing.</title>
+<pages>40-42</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_649</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Kopsell11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Sako05g" publtype="encyclopedia">
+<author>Kazue Sako</author>
+<title>Verifiable Encryption.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_451</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Sako05g</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Biryukov05z" publtype="encyclopedia">
+<author>Alex Biryukov</author>
+<title>Structural Cryptanalysis.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_415</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Biryukov05z</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Moller11e" publtype="encyclopedia">
+<author>Bodo M&ouml;ller</author>
+<title>2<sup><i>k</i></sup>-AryExponentiation.</title>
+<pages>1340-1341</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_48</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Moller11e</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11br" publtype="encyclopedia">
+<title>Commercial Off-the-Shelf.</title>
+<pages>224</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1394</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11br</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11en" publtype="encyclopedia">
+<title>Galois Message Authentication Code.</title>
+<pages>508</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1191</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11en</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski05p" publtype="encyclopedia">
+<author>Burton S. Kaliski Jr.</author>
+<title>Hard-Core Bit.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_184</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Kaliski05p</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Li11b" publtype="encyclopedia">
+<author>Ninghui Li</author>
+<title>Trust Management.</title>
+<pages>1323-1325</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_840</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Li11b</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11ee" publtype="encyclopedia">
+<title>File System Permissions.</title>
+<pages>458</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1314</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11ee</url>
+</incollection><incollection mdate="2017-09-25" key="reference/crypt/Lange11c" publtype="encyclopedia">
+<author>Tanja Lange 0001</author>
+<title>Vector Space.</title>
+<pages>1356</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_484</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Lange11c</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Biryukov05t" publtype="encyclopedia">
+<author>Alex Biryukov</author>
+<title>Multiset Attack.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_269</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Biryukov05t</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bauer05f" publtype="encyclopedia">
+<author>Friedrich L. Bauer</author>
+<title>Cryptology.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_89</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Bauer05f</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11me" publtype="encyclopedia">
+<title>Software-Optimized Encryption Algorithm.</title>
+<pages>1229</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1111</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11me</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11an" publtype="encyclopedia">
+<title>Biometric Information Ethics.</title>
+<pages>98</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1258</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11an</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Adams05p" publtype="encyclopedia">
+<author>Carlisle Adams</author>
+<title>Privacy.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_316</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Adams05p</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Sako11f" publtype="encyclopedia">
+<author>Kazue Sako</author>
+<title>Semantic Security.</title>
+<pages>1176-1177</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_23</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Sako11f</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Ross11" publtype="encyclopedia">
+<author>Arun Ross</author>
+<title>Multibiometrics.</title>
+<pages>804-808</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_743</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Ross11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bleumer11x" publtype="encyclopedia">
+<author>Gerrit Bleumer</author>
+<title>Public Key Proxy Signatures.</title>
+<pages>999-1001</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_218</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Bleumer11x</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski05h" publtype="encyclopedia">
+<author>Burton S. Kaliski Jr.</author>
+<title>Exponential Time.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_149</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Kaliski05h</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Alves-Foss11" publtype="encyclopedia">
+<author>Jim Alves-Foss</author>
+<title>Multiple Independent Levels of Security.</title>
+<pages>815-818</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_865</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Alves-Foss11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Desmedt05e" publtype="encyclopedia">
+<author>Yvo Desmedt</author>
+<title>Knapsack cryptographic schemes.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_223</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Desmedt05e</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Kaliski11g" publtype="encyclopedia">
+<author>Burt Kaliski</author>
+<title>Euler's Totient Function.</title>
+<pages>430</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_403</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Kaliski11g</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Canetti05" publtype="encyclopedia">
+<author>Ran Canetti</author>
+<title>Decisional Diffie-Hellman Assumption.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_99</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Canetti05</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Nita-RotaruC11" publtype="encyclopedia">
+<author>Cristina Nita-Rotaru</author>
+<author>Reza Curtmola</author>
+<title>Secure Network Coding for Wireless Mesh Networks.</title>
+<pages>1123-1126</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_58</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Nita-RotaruC11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Preneel11m" publtype="encyclopedia">
+<author>Bart Preneel</author>
+<title>MDC-2 and MDC-4.</title>
+<pages>771-772</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_596</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Preneel11m</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Landrock05s" publtype="encyclopedia">
+<author>Peter Landrock</author>
+<title>Security Architecture.</title>
+<year>2005</year>
+<booktitle>Encyclopedia of Cryptography and Security</booktitle>
+<ee>https://doi.org/10.1007/0-387-23483-7_377</ee>
+<crossref>reference/crypt/2005</crossref>
+<url>db/reference/crypt/crypt2005.html#Landrock05s</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11h" publtype="encyclopedia">
+<title>AES.</title>
+<pages>26</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1207</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11h</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bauer11" publtype="encyclopedia">
+<author>Friedrich L. Bauer</author>
+<title>Alberti Encryption.</title>
+<pages>29-31</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_159</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Bauer11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Campi11" publtype="encyclopedia">
+<author>Alessandro Campi</author>
+<title>Roles in SQL.</title>
+<pages>1055-1057</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_685</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#Campi11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/X11ak" publtype="encyclopedia">
+<title>Biometric Cryptosystem.</title>
+<pages>90</pages>
+<year>2011</year>
+<booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-5906-5_1378</ee>
+<crossref>reference/crypt/2011</crossref>
+<url>db/reference/crypt/crypt2011.html#X11ak</url>
+</incollection>
+</dblp>
